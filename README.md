@@ -24,7 +24,7 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * Insira https://github.com/GABRIEL-ASSYS/flutter-aula-aprenda-ingles no campo URL do Repositório.
 * Selecione (ou crie) o diretório local no qual você deseja clonar o projeto.
 * Quando você receber a notificação perguntando se você deseja abrir o repositório clonado, selecione <b>Abrir</b>.
-* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio, caso ainda não tenha usado o Node.js executar o comando ```npm install```,  depois de instalado executar ```npm start```, e ele abrirá uma aba em seu navegador padrão.
+* Para rodar o projeto é necessário abrir o terminal de comando no Visual Studio e executar ``` flutter pub get ``` para ele instalar as bibliotecas e dependências do Flutter.
 
 ## 🛠️ Construído com  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
 * [Dart](https://dart.dev/guides) - Linguagem utilizada
